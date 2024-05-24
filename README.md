@@ -1,5 +1,5 @@
 
-![MasterHead](../ezgif.com-animated-gif-maker.gif)
+![MasterHead](assets/banner.gif)
 <h1 align="center">Hi 👋, I'm Edward Lim Jun Heng</h1>
 <h3 align="center">I am a fresh graduate from the National University of Singapore - Data Science and Analytics. <br>
   I am passionate in AI/ML, Software engineering as well as Cybersecurity. <br>
@@ -50,8 +50,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" alt="Snake animation" />
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" alt="Snake animation" />
+</picture>
 ###
 
 ## 🏆 GitHub Trophies
