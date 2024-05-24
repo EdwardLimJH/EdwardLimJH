@@ -51,9 +51,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </picture>
 
 ###
