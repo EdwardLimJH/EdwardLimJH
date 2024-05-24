@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardlimjh&label=Profile%20views&color=0e75b6&style=flat" alt="edwardlimjh" /> </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=EdwardLimJH&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdwardLimJH&theme=radical&hide_border=false)
 
@@ -43,12 +43,8 @@
 </div>
 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/EdwardLJH/) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>](mailto:edwardlim026@gmail.com)
-
-###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdwardLimJH/EdwardLimJH/output/github-contribution-grid-snake-dark.svg" />
